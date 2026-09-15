@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+}
+h1 {
+  font-family: Satisfy;
+  font-size: xx-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.menu {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.menu-item {
+  margin-bottom: 25px;
+  padding: 15px;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.item-content img {
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.item-info {
+  flex: 1;
+}
+
+.item-info h3 {
+  margin: 0 0 10px;
+}
+.menu-item {
+  margin-bottom: 25px;
+  padding: 15px;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.item-content img {
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.item-info {
+  flex: 1;
+}
+
+.item-info h3 {
+  margin: 0 0 10px;
+}
+.menu-item {
+  margin-bottom: 25px;
+  padding: 15px;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.item-content img {
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.item-info {
+  flex: 1;
+}
+.item-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+
+.item-content img {
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.item-info {
+  flex: 1;
+}
+
+.menu-item {
+  margin-bottom: 25px;
+  padding: 15px;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+
+.item-content img {
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.item-info {
+  flex: 1;
+}
+.menu-item {
+  margin-bottom: 30px;
+  padding: 15px;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+
+.item-content img {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.menu-item {
+  margin-bottom: 25px;
+  padding: 15px;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  width: 700px;
+}
+
+.item-content img {
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.item-info {
+  flex: 1;
+}
+font-family: "Satisfy", cursive;
+font-size: 25px;
+
+.satisfy-regular {
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
